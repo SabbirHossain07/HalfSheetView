@@ -11,6 +11,7 @@
 		3845B90E27764A6B00038C31 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3845B90D27764A6B00038C31 /* ContentView.swift */; };
 		3845B91027764A6C00038C31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3845B90F27764A6C00038C31 /* Assets.xcassets */; };
 		3845B91327764A6C00038C31 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3845B91227764A6C00038C31 /* Preview Assets.xcassets */; };
+		3845B91A27764A9300038C31 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3845B91927764A9300038C31 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3845B90D27764A6B00038C31 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3845B90F27764A6C00038C31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3845B91227764A6C00038C31 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3845B91927764A9300038C31 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3845B90B27764A6B00038C31 /* SheetViewApp.swift */,
 				3845B90D27764A6B00038C31 /* ContentView.swift */,
+				3845B91927764A9300038C31 /* HomeView.swift */,
 				3845B90F27764A6C00038C31 /* Assets.xcassets */,
 				3845B91127764A6C00038C31 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3845B91A27764A9300038C31 /* HomeView.swift in Sources */,
 				3845B90E27764A6B00038C31 /* ContentView.swift in Sources */,
 				3845B90C27764A6B00038C31 /* SheetViewApp.swift in Sources */,
 			);
