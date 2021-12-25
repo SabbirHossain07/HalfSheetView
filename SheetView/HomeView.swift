@@ -119,10 +119,8 @@ class CustomHostingController<Content: View>: UIHostingController<Content>{
         if let presentationController = presentationController as?
             UISheetPresentationController {
             presentationController.detents = [
-                
                 .medium(),
                 .large()
-                
             ]
             //To show grab protion...
             presentationController.prefersGrabberVisible = true
